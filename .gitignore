@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+.env
+
+# ignore the dataset
+Stanford Cars Dataset/car_ims
